@@ -1,4 +1,5 @@
 === Plugin Name ===
+
 Plugin Name: Staree WP Widget
 Plugin URI: http://staree.com
 Description: Pulls photo thumbnails into your sidebar
