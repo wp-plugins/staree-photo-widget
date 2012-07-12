@@ -1,0 +1,28 @@
+.wnm_staree_image_wrap a{
+	clear:both;
+}
+
+#wnm_staree_widget_name{
+	text-align:center;
+	margin-top:15px;
+	font-size:13px;
+}
+
+.wnm_staree_images{
+	display:inline;
+}
+
+.wnm_staree_image_wrap{
+	text-align:left;
+}
+
+#wnm_staree_title{
+	margin:0;
+	padding:0;
+}
+
+#wnm_staree_title .widget-title{
+	margin-top:0;
+	padding-top:0;
+	line-height:auto;
+}
