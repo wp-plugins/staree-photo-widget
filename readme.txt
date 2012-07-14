@@ -19,6 +19,7 @@ There are two ways to install the Staree WP Widget outlined below. The first way
 ----
 
 **Option 1 - Using Your WordPress Admin Area for Installing (recommended)**
+
 + Go to the admin area of your WordPress site and select 'Add new' under the 'Plugins' menu
 + Search for 'Staree Staree WP Widget'
 + Select the install option for the 'Staree WP Widget' plugin
@@ -29,6 +30,7 @@ There are two ways to install the Staree WP Widget outlined below. The first way
 ----
 
 **Option 2 - Downloading from the WordPress Website (advanced)**
+
 + Upload the entire staree folder to your /wp-content/plugins/ directory
 + In your Wordpress admin site, go to the 'Plugins' page.
 + Activate the 'Staree WP Widget' plugin on your 'Installed Plugins' page.
